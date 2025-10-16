@@ -16,3 +16,9 @@ oldfiles/
 .env
 venv/
 env/
+
+#Models
+*.h5
+*.pkl
+segmentation/models/
+segmentation/eval/
