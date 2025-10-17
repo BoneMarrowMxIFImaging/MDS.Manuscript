@@ -17,7 +17,7 @@ oldfiles/
 venv/
 env/
 
-#Models
+#Segmentation
 *.h5
 *.pkl
 segmentation/models/
@@ -25,3 +25,8 @@ segmentation/eval/
 
 #Images
 *.tif
+
+#Phenotying
+phenotyping/eval/
+phenotyping/models/
+phenotyping/eval/
