@@ -22,3 +22,6 @@ env/
 *.pkl
 segmentation/models/
 segmentation/eval/
+
+#Images
+*.tif

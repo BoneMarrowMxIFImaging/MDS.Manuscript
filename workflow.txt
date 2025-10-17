@@ -1,0 +1,13 @@
+# Check what changed
+git status
+
+# Stage changes
+git add .                    # All files
+# OR
+git add specific-file.txt    # Specific file
+
+# Commit with message
+git commit -m "Describe what you changed"
+
+# Push to GitHub
+git push
